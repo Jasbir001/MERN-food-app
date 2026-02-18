@@ -43,7 +43,7 @@ src/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-   git clone https://github.com/your-username/mern-food-app.git
+   git clone https://github.com/Jasbir001/MERN-food-app.git
 
 2. Navigate to project folder  
    cd mern-food-app
