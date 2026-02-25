@@ -10,7 +10,7 @@ A full-stack food application built using the MERN stack. This app allows users 
 ## 🛠️ Tech Stack
 
 - Frontend: React.js, CSS3, Html5 and Js(ES6)
-- API: External Food API (like TheMealDB)
+- API: External Food API (:- TheMealDB)
 
 ---
 
