@@ -1,3 +1,4 @@
+
 # 🍔 MERN Food App
 A full-stack food application built using the MERN stack. This app allows users to browse meals, view detailed recipes, and interact with dynamic data fetched from APIs.
 
